@@ -205,16 +205,16 @@ TextureImporter:
     second: Run_Right_2
   - first:
       213: -3380763042040515655
-    second: TopDown_Total_67
+    second: Npc_3
   - first:
       213: -4122563163562664252
-    second: TopDown_Total_68
+    second: Object_1
   - first:
       213: 4225802390388769554
-    second: TopDown_Total_69
+    second: Object_2
   - first:
       213: -6188131835483465312
-    second: TopDown_Total_70
+    second: Object_3
   - first:
       213: -7353122527793476443
     second: Idle_left_1
@@ -229,7 +229,7 @@ TextureImporter:
     second: Run_Left_22
   - first:
       213: -2064614853467041031
-    second: TopDown_Total_75
+    second: Npc_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -1746,7 +1746,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TopDown_Total_67
+      name: Npc_3
       rect:
         serializedVersion: 2
         x: 187
@@ -1767,7 +1767,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TopDown_Total_68
+      name: Object_1
       rect:
         serializedVersion: 2
         x: 68
@@ -1788,7 +1788,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TopDown_Total_69
+      name: Object_2
       rect:
         serializedVersion: 2
         x: 85
@@ -1809,7 +1809,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TopDown_Total_70
+      name: Object_3
       rect:
         serializedVersion: 2
         x: 102
@@ -1914,7 +1914,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TopDown_Total_75
+      name: Npc_4
       rect:
         serializedVersion: 2
         x: 187
